@@ -1,6 +1,6 @@
 # Glaucoma Progression Predicition from RNFLT Map
 
-This project investigates whether a single retinal nerve fiber layer thickness (RNFLT) map can be used to predict future glaucoma progression using deep learning.
+This project investigates whether a single retinal nerve fiber layer thickness (RNFLT) map can be used to predict future glaucoma progression using deep learning using the Harvard-GDP dataset.
 
 # Goal
 
